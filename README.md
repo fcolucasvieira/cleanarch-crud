@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://img.shields.io/badge/status-concluído-brightgreen" alt="Status"/>
-  <img src="https://img.shields.io/badge/backend-.NET%208-blue" alt="Backend"/>
+  <img src="https://img.shields.io/badge/backend-.NET%210-blue" alt="Backend"/>
   <img src="https://img.shields.io/badge/architecture-Clean%20Architecture-orange" alt="Architecture"/>
   <img src="https://img.shields.io/badge/ui-Razor%20Pages-purple" alt="UI"/>
   <img src="https://img.shields.io/badge/database-SQL%20Server-lightgrey" alt="Database"/>
